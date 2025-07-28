@@ -4,6 +4,9 @@
 
 ![GithubLogo](https://miro.medium.com/max/1104/1*Yg2U5OH7uEnrmjwswbFwiw.jpeg)
 
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
