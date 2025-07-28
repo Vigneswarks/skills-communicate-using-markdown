@@ -8,7 +8,9 @@
 var myVar = "Hello, world!";
 ```
 
-
+- [ ] Create Index File
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
